@@ -1,6 +1,12 @@
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=calumk&count_private=true&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calumk&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide=java" /></td>
+  </tr>  
+</table>
+</center>
 
-
-[![CalumK's github stats](https://github-readme-stats.vercel.app/api?username=calumk&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **calumk/calumk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
