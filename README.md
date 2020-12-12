@@ -1,10 +1,5 @@
 <center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=calumk&count_private=true&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calumk&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide=java" /></td>
-  </tr>  
-</table>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=calumk&count_private=true&show_icons=true&theme=tokyonight" />
 </center>
 
 
