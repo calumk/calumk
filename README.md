@@ -3,7 +3,7 @@
 </center>
 -->
 <center>
-  <img width="100%" src="https://cdn.didacticservices.co.uk/Calum_Private/banner_video_gif.gif" />
+  <img width="100%" src="https://cdn.didacticservices.co.uk/Calum_Private/banner_video_gif_calumk.gif" />
 </center>
 
 
