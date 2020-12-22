@@ -1,6 +1,11 @@
-<center>
+<!--<center>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=calumk&count_private=true&show_icons=true&theme=tokyonight" />
 </center>
+-->
+<center>
+  <img width="100%" src="https://cdn.didacticservices.co.uk/Calum_Private/banner_video_gif.gif" />
+</center>
+
 
 
 <!--
