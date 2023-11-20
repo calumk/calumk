@@ -6,6 +6,14 @@
   <img width="100%" src="https://cdn.didacticservices.co.uk/Calum_Private/banner_video_gif_calumk.gif" />
 </center>
 
+---
+
+<center>
+   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calumk&theme=dracula" />
+</center>
+
+
+<img  width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=calumk&theme=dracula" /> <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calumk&theme=dracula" />
 
 
 <!--
